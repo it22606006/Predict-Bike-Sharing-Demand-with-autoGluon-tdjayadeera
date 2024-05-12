@@ -69,14 +69,14 @@ Given that my attempt at lowering the hyperparameters score was unsuccessful, I 
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
-TODO: Replace the image below with your own.
+
 
 ![image](https://github.com/it22606006/Predict-Bike-Sharing-Demand-with-autoGluon-tdjayadeera/assets/128974370/df77bddb-e168-47cc-a7bd-d4e462eeddc9)
 
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
-TODO: Replace the image below with your own.
+
 
 ![image](https://github.com/it22606006/Predict-Bike-Sharing-Demand-with-autoGluon-tdjayadeera/assets/128974370/18e44389-a2c0-404f-a48e-4428d6dc324f)
 
