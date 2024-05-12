@@ -71,13 +71,15 @@ Given that my attempt at lowering the hyperparameters score was unsuccessful, I 
 
 TODO: Replace the image below with your own.
 
-![model_train_score.png](img/model_train_score.png)
+![image](https://github.com/it22606006/Predict-Bike-Sharing-Demand-with-autoGluon-tdjayadeera/assets/128974370/df77bddb-e168-47cc-a7bd-d4e462eeddc9)
+
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
 TODO: Replace the image below with your own.
 
-![model_test_score.png](img/model_test_score.png)
+![image](https://github.com/it22606006/Predict-Bike-Sharing-Demand-with-autoGluon-tdjayadeera/assets/128974370/18e44389-a2c0-404f-a48e-4428d6dc324f)
+
 
 ## Summary
 This paper investigated the use of AutoGluon for demand prediction in bike sharing systems. The model's high RMSE score (1.80711) at first was mostly caused by the fact that it did not limit outputs to non-negative values. The accuracy of the model was greatly increased by incorporating features that recorded various variables of time, such as the hour, day of the week, and month, resulting in a reduced RMSE of 0.46556. With an RMSE of 0.48177, subsequent attempts to further refine the model through hyperparameter modifications only slightly improved performance, suggesting potential problems with overfitting or less-than-ideal hyperparameter settings. In the future, experimenting with other hyperparameter tuning strategies and using regularization techniques might aid in improving accuracy.
